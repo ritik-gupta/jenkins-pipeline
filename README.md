@@ -1,0 +1,1 @@
+Sample Java app to test build pipeline on Jenkins
